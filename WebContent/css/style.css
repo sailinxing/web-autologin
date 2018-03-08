@@ -1,0 +1,58 @@
+#father{
+				width: 900px;
+				margin: auto;				
+			}	
+			#logo{
+				color:black;
+			}		
+			#logo1{
+				float: left;				
+			}
+			#logo2{
+				float: right;				
+				margin-top: 30px;				
+			}
+			#navigation{
+				background-color: beige;
+				height: 50px;
+				padding-top: 10px;
+			}
+			#product_left{
+				width: 25%;
+				height: 100%;
+				float: left;
+			}
+			#product_right{
+				width: 75%;
+				height: 100%;
+				float: left;
+			}
+			.clear{
+				clear: both;
+			}
+			a{
+				text-decoration: none;
+			}
+			a:link{
+				color: black;
+			}
+			a:visited{
+				color: blue;
+			}
+			a:hover{
+				color: red;
+			}
+			a:active{
+				color: green;
+			}
+			ul li{
+				display: inline;
+			}
+			.product{
+				float:left;
+				width: 25%;
+				text-align: center;
+			}
+			.last{
+				text-align: center;
+			}
